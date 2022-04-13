@@ -144,7 +144,7 @@ try {
           y: 0,
           w: 480,
           h: 480,
-          src: '1-original.png',
+          src: '1.png',
           show_level: hmUI.show_level.ONLY_NORMAL,
         });
 
